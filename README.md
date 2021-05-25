@@ -10,7 +10,7 @@
 ## Файловая структура
 
 ```
-webpack-frontend-template
+
 ├── dist/
 ├── src/
 │   ├── assets/
